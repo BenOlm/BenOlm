@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben
-- 👀 I’m interested in front end web development 
-- 🌱 I’m currently learning JavaScript, UI/UX design
+- 👀 I’m interested in front end web development and iOS app development
+- 🌱 I’m currently learning JavaScript, Swift and SwiftUI and UI/UX design
 
 <!---
 BenOlm/BenOlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
